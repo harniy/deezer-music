@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deezer-music/static/css/main.0019a000.chunk.css",
+    "main.js": "/deezer-music/static/js/main.a65d25a4.chunk.js",
+    "main.js.map": "/deezer-music/static/js/main.a65d25a4.chunk.js.map",
+    "runtime-main.js": "/deezer-music/static/js/runtime-main.f720af72.js",
+    "runtime-main.js.map": "/deezer-music/static/js/runtime-main.f720af72.js.map",
+    "static/css/2.37a979a6.chunk.css": "/deezer-music/static/css/2.37a979a6.chunk.css",
+    "static/js/2.eb1b9ca5.chunk.js": "/deezer-music/static/js/2.eb1b9ca5.chunk.js",
+    "static/js/2.eb1b9ca5.chunk.js.map": "/deezer-music/static/js/2.eb1b9ca5.chunk.js.map",
+    "index.html": "/deezer-music/index.html",
+    "static/css/2.37a979a6.chunk.css.map": "/deezer-music/static/css/2.37a979a6.chunk.css.map",
+    "static/css/main.0019a000.chunk.css.map": "/deezer-music/static/css/main.0019a000.chunk.css.map",
+    "static/js/2.eb1b9ca5.chunk.js.LICENSE.txt": "/deezer-music/static/js/2.eb1b9ca5.chunk.js.LICENSE.txt",
+    "static/media/material-icons.css": "/deezer-music/static/media/material-icons.6d812dea.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f720af72.js",
+    "static/css/2.37a979a6.chunk.css",
+    "static/js/2.eb1b9ca5.chunk.js",
+    "static/css/main.0019a000.chunk.css",
+    "static/js/main.a65d25a4.chunk.js"
+  ]
+}
