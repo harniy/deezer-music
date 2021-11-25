@@ -21,7 +21,7 @@ export default function Header() {
   return (
     <header className="header__container container">
       <div className="header__container-title">
-        <a href="/">
+        <a href="/deezer-music">
           <p>
             <span>vibe</span>MUSIC
           </p>
